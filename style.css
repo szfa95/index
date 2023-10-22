@@ -21,3 +21,7 @@ td{
 .nagyobb{
     font-size: larger;
 }
+
+#kep1, #kep2{
+    border: 1px solid black;
+}
