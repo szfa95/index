@@ -9,7 +9,7 @@ h1{
 
 table{
     width: 640px;
-    text-align: center;
+    margin: auto;
     background-image: url(./hatter.jpg);
 }
 
