@@ -1,5 +1,5 @@
 body{
-    background-color: darkslategray;
+    background-color: darkslategrey;
 }
 
 h1{
@@ -28,4 +28,7 @@ td{
 
 .link{
     color: black;
+}
+.ejjelit{
+    background-color: darkslategrey;
 }
